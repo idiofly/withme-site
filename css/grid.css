@@ -1,6 +1,6 @@
 @media (max-width: 1920px){
 	.container {
-/*    	max-width: 1290px;*/
+    	max-width: 1320px;
 	}
 }
 @media (max-width: 991.98px){
@@ -116,6 +116,7 @@ img,span,a,strong{display: inline-block; text-decoration: none !important; }
 }
 .main-input.select{width: 350px;}
 .main-button{border: none; background: #3864eb; color: #fff; border-radius: 20px; height: 40px; padding: 0 30px; display: block;}
+.main-button_w{border: 1px solid#3864eb; background: #fff; color: #3864eb; border-radius: 20px; height: 40px; padding: 0 30px; display: block;}
 select {
   width: 200px;
   padding: .8em .5em;
